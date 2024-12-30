@@ -1,0 +1,4 @@
+\AppData\Local\Google\Chrome\User Data\
+\AppData\Local\Microsoft\Edge\User Data\
+\NTUSER.DAT
+\Windows\Prefetch\
