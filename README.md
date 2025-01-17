@@ -12,7 +12,7 @@ Run Arsenal Image Mounter, mount your source forensic image file.  Make note of 
 
 Once mounted, note the size of the allocated data.
 
-Create a VHD the size of the allocated data.  Format it and mount it.  Make note of the volume latter assigned.
+Create a VHD the size of the allocated data.  Format it and mount it.  Make note of the volume letter assigned.
 
 Run the script with administration privileges.   
 
