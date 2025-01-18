@@ -24,4 +24,4 @@ Run the script with administration privileges.
 
 Enter in the source volume, destination volume and the text file with the items you want to keep.
 
-Once done, unmount the VHD and create a forensic image of the VHD.  
+Once done, unmount the VHD and create a forensic image of the VHD.  You can also bitlocker the VHD to enhance your training, before you convert it to an E01.
